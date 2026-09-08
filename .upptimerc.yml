@@ -1,31 +1,52 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: MunyaoN # Your GitHub organization or username, where this repository lives
+repo: zentara-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Zentara Technologies Africa (Website)
+    url: https://www.zentaraafrica.co.ke
+  - name: JijiSmart
+    url: https://jijismart.zentaraafrica.co.ke
+  - name: WebPos
+    url: https://webpos.zentaraafrica.co.ke
+  - name: Zentara E-Soko
+    url: https://esoko.zentaraafrica.co.ke
+  - name: MwanaCare
+    url: https://mwanacare.zentaraafrica.co.ke
+  - name: MedCore
+    url: https://health.zentaraafrica.co.ke
+  - name: TimetablePro
+    url: https://timetable.zentaraafrica.co.ke
+  - name: GasFlow
+    url: https://gasflow.zentaraafrica.co.ke
+  - name: PharmCore
+    url: https://pharmcode.zentaraafrica.co.ke
+  - name: Boresha Constituency
+    url: https://mycoonstitueny.zentaraafrica.co.ke
+  - name: Sheria
+    url: https://sheria.zentaraafrica.co.ke
+  - name: Zentara Elimu
+    url: https://elimu.zentaraafrica.co.ke
+  - name: Zentara AgroMarket
+    url: https://agromarket.zentaraafrica.co.ke
+  - name: Zentara Chama
+    url: https://chama.zentaraafrica.co.ke
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.zentaraafrica.co.ke
+  # If you'd rather not set up the custom domain yet, comment out the
+  # `cname` line above and uncomment the next line instead — the page
+  # will then be served at https://munyaon.github.io/zentara-status/
+  # baseUrl: /zentara-status
+  logoUrl: https://raw.githubusercontent.com/MunyaoN/zentara-africa-website/master/public/favicon.png
+  name: Zentara Technologies Africa — Status
+  introTitle: "**Zentara Technologies Africa** service status"
+  introMessage: Live status for our website and products. Updated automatically every few minutes.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Zentara Technologies Africa
+      href: https://www.zentaraafrica.co.ke
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
