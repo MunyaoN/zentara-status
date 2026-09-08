@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 993,
-    "timeDay": 993,
-    "timeWeek": 993,
-    "timeMonth": 993,
-    "timeYear": 993,
+    "time": 736,
+    "timeDay": 736,
+    "timeWeek": 736,
+    "timeMonth": 736,
+    "timeYear": 736,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jijismart.zentaraafrica.co.ke.ico",
     "slug": "jiji-smart",
     "status": "down",
-    "uptime": "7.24%",
-    "uptimeDay": "7.24%",
-    "uptimeWeek": "7.24%",
-    "uptimeMonth": "7.24%",
-    "uptimeYear": "7.24%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 5
+      "2026-09-08": 766
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/webpos.zentaraafrica.co.ke.ico",
     "slug": "web-pos",
     "status": "down",
-    "uptime": "7.69%",
-    "uptimeDay": "7.69%",
-    "uptimeWeek": "7.69%",
-    "uptimeMonth": "7.69%",
-    "uptimeYear": "7.69%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 5
+      "2026-09-08": 766
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/esoko.zentaraafrica.co.ke.ico",
     "slug": "zentara-e-soko",
     "status": "down",
-    "uptime": "8.16%",
-    "uptimeDay": "8.16%",
-    "uptimeWeek": "8.16%",
-    "uptimeMonth": "8.16%",
-    "uptimeYear": "8.16%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 4
+      "2026-09-08": 765
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mwanacare.zentaraafrica.co.ke.ico",
     "slug": "mwana-care",
     "status": "down",
-    "uptime": "9.01%",
-    "uptimeDay": "9.01%",
-    "uptimeWeek": "9.01%",
-    "uptimeMonth": "9.01%",
-    "uptimeYear": "9.01%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 4
+      "2026-09-08": 765
     }
   },
   {
@@ -103,18 +103,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/health.zentaraafrica.co.ke.ico",
     "slug": "med-core",
     "status": "down",
-    "uptime": "9.62%",
-    "uptimeDay": "9.62%",
-    "uptimeWeek": "9.62%",
-    "uptimeMonth": "9.62%",
-    "uptimeYear": "9.62%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 4
+      "2026-09-08": 765
     }
   },
   {
@@ -123,18 +123,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/timetable.zentaraafrica.co.ke.ico",
     "slug": "timetable-pro",
     "status": "down",
-    "uptime": "11.99%",
-    "uptimeDay": "11.99%",
-    "uptimeWeek": "11.99%",
-    "uptimeMonth": "11.99%",
-    "uptimeYear": "11.99%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 3
+      "2026-09-08": 764
     }
   },
   {
@@ -143,18 +143,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gasflow.zentaraafrica.co.ke.ico",
     "slug": "gas-flow",
     "status": "down",
-    "uptime": "12.96%",
-    "uptimeDay": "12.96%",
-    "uptimeWeek": "12.96%",
-    "uptimeMonth": "12.96%",
-    "uptimeYear": "12.96%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 3
+      "2026-09-08": 764
     }
   },
   {
@@ -163,18 +163,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pharmcode.zentaraafrica.co.ke.ico",
     "slug": "pharm-core",
     "status": "down",
-    "uptime": "15.61%",
-    "uptimeDay": "15.61%",
-    "uptimeWeek": "15.61%",
-    "uptimeMonth": "15.61%",
-    "uptimeYear": "15.61%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 2
+      "2026-09-08": 763
     }
   },
   {
@@ -183,18 +183,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mycoonstitueny.zentaraafrica.co.ke.ico",
     "slug": "boresha-constituency",
     "status": "down",
-    "uptime": "18.61%",
-    "uptimeDay": "18.61%",
-    "uptimeWeek": "18.61%",
-    "uptimeMonth": "18.61%",
-    "uptimeYear": "18.61%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 2
+      "2026-09-08": 763
     }
   },
   {
@@ -203,18 +203,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sheria.zentaraafrica.co.ke.ico",
     "slug": "sheria",
     "status": "down",
-    "uptime": "22.33%",
-    "uptimeDay": "22.33%",
-    "uptimeWeek": "22.33%",
-    "uptimeMonth": "22.33%",
-    "uptimeYear": "22.33%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 1
+      "2026-09-08": 762
     }
   },
   {
@@ -223,18 +223,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/elimu.zentaraafrica.co.ke.ico",
     "slug": "zentara-elimu",
     "status": "down",
-    "uptime": "28.99%",
-    "uptimeDay": "28.99%",
-    "uptimeWeek": "28.99%",
-    "uptimeMonth": "28.99%",
-    "uptimeYear": "28.99%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 1
+      "2026-09-08": 762
     }
   },
   {
@@ -243,18 +243,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/agromarket.zentaraafrica.co.ke.ico",
     "slug": "zentara-agro-market",
     "status": "down",
-    "uptime": "40.59%",
-    "uptimeDay": "40.59%",
-    "uptimeWeek": "40.59%",
-    "uptimeMonth": "40.59%",
-    "uptimeYear": "40.59%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 1
+      "2026-09-08": 762
     }
   },
   {
@@ -263,18 +263,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/chama.zentaraafrica.co.ke.ico",
     "slug": "zentara-chama",
     "status": "down",
-    "uptime": "71.37%",
-    "uptimeDay": "71.37%",
-    "uptimeWeek": "71.37%",
-    "uptimeMonth": "71.37%",
-    "uptimeYear": "71.37%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 0
+      "2026-09-08": 761
     }
   }
 ]
