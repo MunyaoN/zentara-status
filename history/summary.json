@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 440,
-    "timeWeek": 636,
-    "timeMonth": 636,
-    "timeYear": 636,
+    "time": 627,
+    "timeDay": 585,
+    "timeWeek": 627,
+    "timeMonth": 627,
+    "timeYear": 627,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-11": 162,
+      "2026-09-12": 172,
+      "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 833
@@ -57,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-11": 162,
+      "2026-09-12": 172,
+      "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 833
@@ -80,7 +82,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-11": 162,
+      "2026-09-12": 172,
+      "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 832
@@ -103,7 +106,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-11": 162,
+      "2026-09-12": 172,
+      "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 832
@@ -115,16 +119,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/health.zentaraafrica.co.ke.ico",
     "slug": "med-core",
     "status": "up",
-    "uptime": "61.08%",
+    "uptime": "71.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.08%",
-    "uptimeMonth": "61.08%",
-    "uptimeYear": "61.08%",
-    "time": 547,
-    "timeDay": 679,
-    "timeWeek": 547,
-    "timeMonth": 547,
-    "timeYear": 547,
+    "uptimeWeek": "71.68%",
+    "uptimeMonth": "71.68%",
+    "uptimeYear": "71.68%",
+    "time": 520,
+    "timeDay": 440,
+    "timeWeek": 520,
+    "timeMonth": 520,
+    "timeYear": 520,
     "dailyMinutesDown": {
       "2026-09-09": 676,
       "2026-09-08": 831
@@ -147,7 +151,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-11": 162,
+      "2026-09-12": 172,
+      "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 831
@@ -170,7 +175,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-11": 162,
+      "2026-09-12": 172,
+      "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 830
@@ -193,7 +199,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-11": 162,
+      "2026-09-12": 172,
+      "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 830
@@ -216,7 +223,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-11": 162,
+      "2026-09-12": 172,
+      "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 830
@@ -239,7 +247,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-11": 162,
+      "2026-09-12": 172,
+      "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 829
@@ -262,7 +271,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-11": 162,
+      "2026-09-12": 172,
+      "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 829
@@ -274,16 +284,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/agromarket.zentaraafrica.co.ke.ico",
     "slug": "zentara-agro-market",
     "status": "up",
-    "uptime": "61.07%",
+    "uptime": "71.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.07%",
-    "uptimeMonth": "61.07%",
-    "uptimeYear": "61.07%",
-    "time": 372,
-    "timeDay": 264,
-    "timeWeek": 372,
-    "timeMonth": 372,
-    "timeYear": 372,
+    "uptimeWeek": "71.67%",
+    "uptimeMonth": "71.67%",
+    "uptimeYear": "71.67%",
+    "time": 375,
+    "timeDay": 383,
+    "timeWeek": 375,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2026-09-09": 679,
       "2026-09-08": 828
@@ -306,7 +316,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-11": 162,
+      "2026-09-12": 172,
+      "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 828
