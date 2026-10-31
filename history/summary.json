@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-31": 230,
+      "2026-10-31": 971,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -107,7 +107,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-31": 230,
+      "2026-10-31": 971,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -180,7 +180,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-31": 230,
+      "2026-10-31": 971,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -253,7 +253,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-31": 230,
+      "2026-10-31": 971,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -314,20 +314,21 @@
     "url": "https://health.zentaraafrica.co.ke",
     "icon": "https://icons.duckduckgo.com/ip3/health.zentaraafrica.co.ke.ico",
     "slug": "med-core",
-    "status": "up",
-    "uptime": "98.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.01%",
-    "time": 494,
-    "timeDay": 448,
-    "timeWeek": 420,
-    "timeMonth": 461,
-    "timeYear": 494,
+    "status": "down",
+    "uptime": "98.03%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "98.03%",
+    "time": 486,
+    "timeDay": 273,
+    "timeWeek": 380,
+    "timeMonth": 449,
+    "timeYear": 486,
     "dailyMinutesDown": {
       "2026-09-09": 676,
-      "2026-09-08": 831
+      "2026-09-08": 831,
+      "2026-10-31": 3
     }
   },
   {
@@ -347,7 +348,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-31": 230,
+      "2026-10-31": 971,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -420,7 +421,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-31": 230,
+      "2026-10-31": 971,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -493,7 +494,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-31": 230,
+      "2026-10-31": 971,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -566,7 +567,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-31": 230,
+      "2026-10-31": 971,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -639,7 +640,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-31": 230,
+      "2026-10-31": 971,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -712,7 +713,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-31": 230,
+      "2026-10-31": 971,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -774,11 +775,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/agromarket.zentaraafrica.co.ke.ico",
     "slug": "zentara-agro-market",
     "status": "up",
-    "uptime": "98.02%",
+    "uptime": "98.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.02%",
+    "uptimeYear": "98.03%",
     "time": 521,
     "timeDay": 502,
     "timeWeek": 606,
@@ -806,7 +807,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-31": 230,
+      "2026-10-31": 971,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
